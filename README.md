@@ -19,7 +19,7 @@
 # Installation :
 
 Instructions so others can clone and run your projects locally:
-- git clone https://github.com/Zeeshanelia/Redux_Toolkit-vs-Context_Api-Projects-Guidance.git
+- git clone https://github.com/Zeeshanelia/ReduxToolKit-vs-ContextApi-Projects-and-Guidance-Repository
 - cd project-folder
 - npm i
 - npm run dev
@@ -42,7 +42,7 @@ List what concepts each project or the repo as a whole covers:
 
 ## Projects List
 
-This repository contains diffrents ReactJs projects about Redux Toolkit vs Context Api.  
+This repository contains diffrents ReactJs projects about Redux Toolkit vs Context Api.
 Each project is linked below for easy access and learning.
 
 
@@ -51,14 +51,14 @@ Each project is linked below for easy access and learning.
 
 | Day | Project | Concept Learned | Notes / Challenges |
 |-----|---------|----------------|------------------|
-| 1   | [ E-commerce Context API with  Basic Approach](https://github.com/Zeeshanelia/100-Days-Of-React-Js-Coding-Repo/tree/main/13-ContextApi%20Functional%20Website) | use of Context Api , useEffect  | Learned dynamic e-commerce React app with a global state management, and smooth UI effects using Tailwind CSS and React Context. Gained hands-on experience Project by using Context API with useEffect in a simple approach |
+| 1   | [ E-commerce Context API with  Basic Approach](https://github.com/Zeeshanelia/ReduxToolKit-vs-ContextApi-Projects-and-Guidance-Repository/tree/main/1-%20Ecommerce%20With%20Context%20Api%20%26%20useEffect%2C%20Rest%20Api) | use of Context Api , useEffect  | Learned dynamic e-commerce React app with a global state management, and smooth UI effects using Tailwind CSS and React Context. Gained hands-on experience Project by using Context API with useEffect in a simple approach |
 
 
 
 
 
 
- - Project 1   
+ - Project 1
  ![alt text](public/images/Context-api-RestApi.png)
 
 
@@ -77,5 +77,4 @@ I would like to express my gratitude to the following resources and mentors who 
 - [Sir Ahsan React Tutorials](https://www.youtube.com/codewithahsan) – for in-depth explanations and coding insights.
 - [FreeCodeCamp React Tutorials](https://www.freecodecamp.org/) – for beginner-friendly tutorials and exercises.
 - Special thanks to Sir Sourav, Sir Ahsan the ReactJS mentor for their guidance, support, and encouragement.
-                   
-       
+
