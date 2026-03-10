@@ -54,13 +54,20 @@ Each project is linked below for easy access and learning.
 | 1   | [ E-commerce Context API with  Basic Approach](https://github.com/Zeeshanelia/ReduxToolKit-vs-ContextApi-Projects-and-Guidance-Repository/tree/main/1-%20Ecommerce%20With%20Context%20Api%20%26%20useEffect%2C%20Rest%20Api) | use of Context Api , useEffect  | Learned dynamic e-commerce React app with a global state management, and smooth UI effects using Tailwind CSS and React Context. Gained hands-on experience Project by using Context API with useEffect in a simple approach |
 
 
+| Day | Project | Concept Learned | Notes / Challenges |
+|-----|---------|----------------|------------------|
+| 2   | [ Ecommerce Fully Functional With Context API ](https://github.com/Zeeshanelia/ReduxToolKit-vs-ContextApi-Projects-and-Guidance-Repository/tree/main/2-%20Ecommerce%20Fully%20Functional%20With%20Context%20API) | use of Context API , Axios , React Router DOM , Clerk Auth , DummyJSON API , useEffect  | Learned A modern, full-featured e-commerce application built with React, featuring product browsing, category filtering, cart management, and user authentication. |
+
+
 
 
 
 
  - Project 1
- ![alt text](public/images/Context-api-RestApi.png)
+ ![alt text](public/images/1-pro.png)
 
+ - Project 1
+ ![alt text](public/images/2-pro.png)
 
 
 
